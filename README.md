@@ -33,7 +33,7 @@ This module consists of a series of small projects:
   Command-line phonebook where users can `ADD`, `SEARCH`, and `EXIT`. Practice with arrays, formatting output, and class management.
 
 - **ex02 – Account**  
-  Simulates a banking system with static attributes tracking all accounts. Demonstrates constructors, destructors, and encapsulation. The goal is to recreate the Account.cpp file, wich has been "eliminated".
+  Simulates a banking system with static attributes tracking all accounts. Demonstrates constructors, destructors, and encapsulation. The goal is to recreate the Account.cpp file, which has been "eliminated".
 
 ---
 
